@@ -2,7 +2,7 @@
 
 This repository will host raw and polished data sets about mortgages on commercially operated buildings in New York City except Staten Island.
 
-![GANTT](</misc/mermaid-diagram-20210818225628.png>)
+![GANTT](</misc/mermaid-diagram-20210818231325.png>)
 
 Roadmap:
 
